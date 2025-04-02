@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+pandas
+comtypes
+streamlit-drawable-canvas
+pyttsx3
+PyPDF2
+scikit-learn
+python-docx
+python-pptx
+psycopg2-binary
+pycaw
+wmi
